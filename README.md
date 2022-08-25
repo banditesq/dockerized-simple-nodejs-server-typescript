@@ -5,5 +5,5 @@ Simple Dockerized Nodejs server with JWT authentication and bcrypt to encrypt pa
 
 start:
 
-`docker compose run`  
+`docker compose up`  
 
